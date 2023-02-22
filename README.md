@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>- 👋 Hi, I’m Kavi Balaji E<br>- 👨‍I am a Computer Science Student in Bannari Amman Institute of Technology.<br>- 👀 I’m interested in developing Web Applications.<br>- 🌱 I’m currently learning Backend technologies.<br>- 💞️ I’m looking to collaborate on Full stack development Projects<br>- ⚡ In my free time, I solve problems and learn new technologies<br>- 📫 How to reach me<br>   - kavibalaji1303@gmail.com<br>   - kavibalaji.cs20@bitsathy.ac.in
+💫 About Me:<br>- 👋 Hi, I’m Kavi Balaji E<br>- 👨‍I am a Computer Science Student in Bannari Amman Institute of Technology.<br>- 👀 I’m interested in developing Web Applications.<br>- 🌱 I’m currently learning Frontend technologies.<br>- 💞️ I’m looking to collaborate on web development Projects<br>- ⚡ In my free time, I solve problems and learn new technologies<br>- 📫 How to reach me<br>   - kavibalaji1303@gmail.com<br>   - kavibalaji.cs20@bitsathy.ac.in
 
 
 # 💻 Tech Stack:
